@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Can you spot the pattern (pattern) ?
 Use the left arrow to go back!
